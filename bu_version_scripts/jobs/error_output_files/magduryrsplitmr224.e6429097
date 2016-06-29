@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "prep_year_split_mag_and_dur.py", line 22, in <module>
+    patchfiles = list(csv.reader(open(file,"rb")))
+IOError: [Errno 2] No such file or directory: '/projectnb/trenders/proj/ltattribution/mr224_wetness_greastest/patchfiles_wetness_paramset02_greatest_disturbance.csv'
